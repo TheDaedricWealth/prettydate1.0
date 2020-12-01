@@ -1,0 +1,75 @@
+.escena1 {
+    background-image: url("../Escenarios/Escenario1.jpg");
+    background-size: cover;
+  }
+.escena2{
+    background-image: url("../Escenarios/Escenario2.jpg");
+    background-size: cover;
+  }
+  .escena3{
+    background-image: url("../Escenarios/Escenario3.png");
+    background-size: cover;
+  }
+  .escena4{
+    background-image: url("../Escenarios/Escenario4.jpg");
+    background-size: cover;
+  }
+  .escena5{
+    background-image: url("../Escenarios/Escenario5.jpeg");
+    background-size: cover;
+  }
+  .fin{
+    background-color: black;
+    background-size: cover;
+  }
+.div_centrado{
+    opacity: .75;
+    position: absolute;
+    top:50%;
+    left: 50%;           
+    margin-top: -100px;
+    margin-left: -800px;
+    width: 1600px;       
+    height: 200px;
+}
+.disable{
+    display: none;
+}
+.div_centrado_abajo{
+      
+    height: 500px;
+    width: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    margin-right: -200px;
+}
+.rectangulo{
+    opacity: .75;
+    background:grey;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 185px;
+  width: 100%;
+  text-align: center;
+    
+}
+.texto{
+    color: white; 
+  }
+#audio1{
+    display: none
+    }
+#audio2{
+        display: none
+    }
+    #audio3{
+        display: none
+        }
+        #audio4{
+            display: none
+            }
+            #audio5{
+                display: none
+                }
